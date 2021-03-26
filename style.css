@@ -1,0 +1,181 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    max-width: 1000px;
+    
+    background-color: cadetblue;
+    margin: 20px auto;
+    padding: 20px;
+}
+    
+.himg {
+    width: 100px;
+    height: 100px;
+    border: 5px solid crimson;
+    border-radius: 50%;
+    float: left;
+}
+.heading{
+    float: left;
+    color: darkblue;
+    padding: 20px;
+}
+
+.clear {
+    clear: both;
+}
+.numb {
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid darkcyan;
+    border-top: none;
+    
+
+}
+
+.numb2 {
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid darkcyan;
+    border-bottom: none;
+    
+
+}
+
+.huda {
+    color: darkgreen;
+    text-align: center;
+}
+
+.header-content  {
+    float: right;
+    padding: 20px;
+}
+
+.header-content a {
+    text-decoration: none;
+    font-size: 26px;
+    color: rgb(102, 255, 0);
+    font-weight: bold;
+
+}
+
+.section-2{
+
+    padding: 20px;
+
+}
+
+.right-div {
+
+    float: left;
+    color: rgb(255, 110, 224);
+    width: 35%;
+    
+    
+}
+
+.left-div{
+
+    float: right;
+    width: 65%;
+    color: rgb(255, 109, 236);
+
+
+}
+
+.section-3{
+
+    padding: 20px;
+
+}
+
+.section-4{
+
+    padding: 20px;
+    text-align: center;
+
+}
+
+.name {
+
+    float: left;
+    color: darkblue;
+    width: 25%;
+    font-size: x-large ;
+    
+    
+    
+
+
+}
+
+.sectionno-2{
+
+    float: right;
+    color: darkblue;
+    width: 34%;
+    font-size: x-large;
+    
+    
+
+
+}
+.sectionno-3{
+
+    float: right;
+    color: darkblue;
+    width: 34%;
+    font-size: x-large;
+    
+    
+    
+}
+
+.footer1{
+    background-color: gold;
+    max-width: 1000px;
+    height: 80px;
+    padding: 10px;
+    text-align: center;
+    
+    
+
+}
+
+.footer2{
+    float: left;
+    width: 33%;
+    margin-top: 10px;
+    
+
+}
+
+.footer3{
+    float: right;
+    width: 33%;
+    margin-top: 10px ;
+
+}
+
+.footer4{
+    float: right;
+    width: 33%;
+    margin-top: 10px ;
+}
+
+#cp {
+    text-align: center;
+    margin-top: 65px;
+    font-weight: bolder;
+    font-style: initial;
+    color: red;
+    margin-bottom: 0px;
+}
